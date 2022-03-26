@@ -24,8 +24,14 @@
 - [Git book](https://pt.wikiversity.org/wiki/Git_B%C3%A1sico)
 
 ## S01 - Estressados
+- [ ] Configure o ambiente do c++.
+    - Instale o compilador e verifique qual versão ele suporta. As últimas versões são c++20, c++17, c++14.
+    - Compilando manualmente, `g++ -std=c++14 codigo.cpp -o codigo`.
+    - Se for utilizar o vscode, abra as configurações settings.json e informe qual versão do c++ que você deseja utilizar.
+        - `"C_Cpp.default.cppStandard": "c++20",`
+    - Se for utilizar codeblocks, qtcreator, clion, ache como configurar a versão do c++ nele.
+    - Se quiser utilizar o DEV C++, melhor trancar a disciplina.
 - [ ] Intro
-    - Configure o ambiente do c++.
     - Assistir o vídeo de Introdução ao C++[Vídeo](https://youtu.be/VcGw1ydBf64)
         - Pode passar rápido ou pular as partes que você já conhece.
 - [ ] Estressados
