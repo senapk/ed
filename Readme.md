@@ -6,20 +6,7 @@
 - [Recursos Git](#recursos-git)
 - [S01 - Estressados](#s01---estressados)
 - [S02 - Princesa](#s02---princesa)
-- [S03](#s03)
-- [S04](#s04)
-- [S05](#s05)
-- [S06](#s06)
-- [S07](#s07)
-- [S08](#s08)
-- [S09](#s09)
-- [S10](#s10)
-- [S11](#s11)
-- [S12](#s12)
-- [S13](#s13)
-- [S14](#s14)
-- [S15](#s15)
-- [S16](#s16)
+- [S03 - Recursão](#s03---recursão)
 <!--TOC_END-->
 
 ## Links
@@ -59,7 +46,7 @@
     - Insira seu email gmail e seu repositório do github na planilha de notas.
     - **A atividade só vale se for feito pelo aplicativo do git ou git desktop, não vale se for feito pelo navegador.**.
 
-## S03
+## S03 - Recursão
 - [ ] Perfil: Me manda uma mensagem pelo Telegram no privado @senapk informando.
     - A disciplina que está cursando.
     - Nome completo.
@@ -67,16 +54,3 @@
     - Se seu perfil não tiver sua foto, me manda uma foto decente.
     - Seu experiência, afinidade ou dificuldade com programação.
     - Possíveis dificuldades/desafios extras que você tenha: não tem notebook, internet, ritalina, diazepan, etc.
-## S04
-## S05
-## S06
-## S07
-## S08
-## S09
-## S10
-## S11
-## S12
-## S13
-## S14
-## S15
-## S16
