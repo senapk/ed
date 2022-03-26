@@ -2,10 +2,10 @@
 
 <!--TOC_BEGIN-->
 - [Links](#links)
-- [Recursos Haskell](#recursos-haskell)
+- [Recursos Estrutura de Dados](#recursos-estrutura-de-dados)
 - [Recursos Git](#recursos-git)
-- [S01 - Setup](#s01---setup)
-- [S02 - Introdução](#s02---introdução)
+- [S01 - Estressados](#s01---estressados)
+- [S02 - Princesa](#s02---princesa)
 - [S03](#s03)
 - [S04](#s04)
 - [S05](#s05)
@@ -36,28 +36,28 @@
 - [Guia Rápido](https://rogerdudler.github.io/git-guide/index.pt_BR.html)
 - [Git book](https://pt.wikiversity.org/wiki/Git_B%C3%A1sico)
 
-## S01 - Setup
+## S01 - Estressados
 - [ ] Intro
     - Configure o ambiente do c++.
     - Assistir o vídeo de Introdução ao C++[Vídeo](https://youtu.be/VcGw1ydBf64)
         - Pode passar rápido ou pular as partes que você já conhece.
-- [ ] Github
-    - Instale o git.
-    - Crie seu repositório da disciplina no github.
-    - Insira seu email gmail e seu repositório do github na planilha de notas.
-    - **A atividade só vale se for feito pelo aplicativo do git ou git desktop, não vale se for feito pelo navegador.**.
 - [ ] Estressados
     - **2 Pontos**: Fazer o estressados bloco 1
     - **2 Pontos**: Fazer o estressados bloco 2 
     - **1 Pontos**: Fazer o estressados bloco 3
 
-## S02 - Introdução
+## S02 - Princesa
  - [ ] Princesa. 
     - A implementação pode ser utilizando int vet[] ou std::vector
         - **2 Pontos**: Vetor com remoção do elemento.
         - **2 Pontos**: Vetor com marcação do elemento.
     - Lista ligada.
         -  **1 Ponto**: A lista pode ser criada por você ou a std::list do c++.
+- [ ] Github
+    - Instale o git.
+    - Crie seu repositório da disciplina no github.
+    - Insira seu email gmail e seu repositório do github na planilha de notas.
+    - **A atividade só vale se for feito pelo aplicativo do git ou git desktop, não vale se for feito pelo navegador.**.
 
 ## S03
 - [ ] Perfil: Me manda uma mensagem pelo Telegram no privado @senapk informando.
